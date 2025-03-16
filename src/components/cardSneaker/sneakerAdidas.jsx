@@ -2,7 +2,6 @@ import React from 'react';
 import {Link } from 'react-router-dom';
 import Footer from '../maket/Footer';
 import Header from '../maket/Header';
-
 import Adidas from '../img/sneakerMain/adidas/adidas.jpg';
 export default function SneakerAdidas() {
 return (

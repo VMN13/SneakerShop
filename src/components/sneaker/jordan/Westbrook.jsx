@@ -112,7 +112,11 @@ export default function Max() {
     </h2>
   <Stars />
     <p className="des">
-    Nike Air Jordan Jumpman 2021 PF sneakers are a hit this season. The presented model is made in white. The sneakers are decorated with many stitched lines, as well as black inserts on the front and back. On the tongue is the brand's signature logo, which is made in red. The thickened sole with an Air insert allows you to get instant cushioning of the foot, and the rubberized sole gives good traction on the surface.
+    Nike Air Jordan Jumpman 2021 PF sneakers are a hit this season. 
+    The presented model is made in white. The sneakers are decorated with many stitched lines, 
+    as well as black inserts on the front and back. On the tongue is the brand's signature logo, 
+    which is made in red. The thickened sole with an Air insert allows you to get instant cushioning 
+    of the foot, and the rubberized sole gives good traction on the surface.
     </p>
 
 <div className="cardbottons">

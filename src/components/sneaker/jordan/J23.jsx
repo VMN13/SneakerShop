@@ -78,10 +78,10 @@ export default function Max() {
 </div>
       <Link Link to="/Credit">
       <button
-      className="buyTwo" > B 
+      className="buyTwo" > 
+      B 
       U 
       Y 
-       
     </button>
     </Link>
     
@@ -110,7 +110,13 @@ export default function Max() {
     </h2>
   <Stars />
     <p className="des">
-    Step into the court with the iconic Air Jordan J23 Low 'White'. With its crisp white leather upper, perforated toe box, and signature Jumpman branding, this low-top sneaker combines timeless style with unbeatable comfort. The luxurious Phylon midsole absorbs shock for exceptional cushioning, while the lightweight rubber outsole provides durable traction on and off the court. Own a piece of basketball history with these legendary sneakers, perfect for both casual wear and game-day performance.
+      Step into the court with the iconic Air Jordan J23 Low 'White'. 
+      With its crisp white leather upper, perforated toe box, 
+      and signature Jumpman branding, this low-top sneaker combines timeless 
+      style with unbeatable comfort. The luxurious Phylon midsole absorbs shock for exceptional cushioning, 
+      while the lightweight rubber outsole provides durable traction on and off the court. 
+      Own a piece of basketball history with these legendary sneakers, perfect for both 
+      casual wear and game-day performance.
     </p>
 
 <div className="cardbottons">

@@ -19,13 +19,16 @@ export default function Max() {
     Balenciaga
   </h2>
     <p>
-      Balenciaga is a Spanish luxury fashion house headquartered in Paris. It designs, 
+      Balenciaga is a Spanish luxury fashion house headquartered in Paris.
+      It designs, 
       manufactures and markets ready-to-wear footwear,
       handbags, and accessories, and licenses its name and branding to Coty for fragrances. 
       Balenciaga is one of the luxury brands owned by Kering.
-      Originally a Spanish brand, it was founded in 1919 by Spanish couturier Cristóbal Balenciaga in San Sebastián.
+      Originally a Spanish brand, 
+      it was founded in 1919 by Spanish couturier Cristóbal Balenciaga in San Sebastián.
       Gianfranco Gianangeli
-      has been CEO of Balenciaga since November 2024 and Demna Gvasalia its creative director since 2015.
+      has been CEO of Balenciaga since 
+      November 2024 and Demna Gvasalia its creative director since 2015.
     </p>
 
 <div className="cardbottons">

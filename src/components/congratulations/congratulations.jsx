@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-
 import Confetti from 'react-confetti';
 import Header from '../maket/Header';
 import Footer from '../maket/Footer';
@@ -11,7 +10,6 @@ export default function Congratulations() {
     <Header />
     <Confetti />
     <div className="back">
-     
       <h1 className="congratulation">
         Congratulation!
       </h1>

@@ -13,8 +13,6 @@ export default function SneakerMain() {
 return (
 <>   
 <Header /> 
-
-
 <h1 id="home">
     Jordan
   </h1> 
@@ -39,7 +37,6 @@ return (
       <div>
         <h2>
         Jordan Westbrook One Take -39
-       
         </h2>
       </div>
         <div>
@@ -81,10 +78,6 @@ return (
           </Link>
         </div>
       </div>
-
-      
-     
-    
 
   </div>
 <Footer /> 

@@ -11,7 +11,6 @@ export default function Home() {
 <div className="chat">
 </div>
 
-
 <div className="homePage">
   <h1 id="home">
     Home Page
@@ -31,7 +30,8 @@ export default function Home() {
 <div className='descriptionHome'>
   <p className="welcome">
     Welcome to the Sneaker Shop sneaker page
-    Here you can find a cool pair at a price that is affordable for your wallet.
+    Here you can find a cool pair at a price that is 
+    affordable for your wallet.
   </p>
 
   <Link id="shop"

@@ -1,6 +1,3 @@
-
-
-
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wdth,wght@0,89.5,100..900;1,89.5,100..900&display=swap');
 
 body {
@@ -8,16 +5,11 @@ body {
 }
 
 @media (max-width:944px) {
-
   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wdth,wght@0,89.5,100..900;1,89.5,100..900&display=swap');
 
 body {
   font-family: "Noto Sans", serif;
-
 }
-
-
-
 
 .Header {
   background:url(../img/headerImg/wallpaper.jpg);  
@@ -30,21 +22,18 @@ body {
   margin-top: 20px;
   border-radius: 20px; 
   max-width: 318px;
-
-width: 100%;
-max-width: 100%;
+  width: 100%;
+  max-width: 100%;
 }
 
 .head {
-  display: flex
-  ;
-          flex-direction: column;
-          justify-content: space-around;
-          font-size: 30px;
-          margin-top: -39px;
-          width: 416px;
-          margin-left: -20px;
-  
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  font-size: 30px;
+  margin-top: -39px;
+  width: 416px;
+  margin-left: -20px;
 }
 
 .headerlink {
@@ -52,8 +41,7 @@ max-width: 100%;
   text-decoration: none;
   color: #000000;
   padding: 5px;
-  display: flex
-;
+  display: flex;
   border: solid 1px #f8f8f8;
   border-radius: 10px;
   cursor: pointer;
@@ -76,8 +64,7 @@ max-width: 100%;
   text-decoration: none;
   color: #f8f8f8;
   padding: 5px;
-  display: flex
-;
+  display: flex;
   border: solid 1px #f8f8f8;
   border-radius: 10px;
   cursor: pointer;
@@ -117,7 +104,6 @@ max-width: 100%;
   border-radius: 10px;
   border: none;
   cursor: pointer;
- 
 }
 
 .chatbot {
@@ -138,7 +124,7 @@ max-width: 100%;
   margin: 0 auto;
   box-sizing: border-box;
   font-family: "Noto Sans", serif;
- margin-top: 250px;
+  margin-top: 250px;
 }
 
 .magnifier-img {
@@ -146,11 +132,11 @@ max-width: 100%;
   height: 300px;
   margin-left: -1px;
 }
+
 #size {
   margin-top: -87px;
   margin-left: -37px;
-  display: flex
-;
+  display: flex;
   border: solid 1px gray;
   border-radius: 20px;
   justify-content: center;
@@ -170,7 +156,6 @@ max-width: 100%;
   display: flex;
   justify-content: center;
   margin-left: 0px;
- 
   width: 100%;
 }
 
@@ -190,11 +175,9 @@ max-width: 100%;
 .welcome {
   font-size: 30px;
   text-align: center;
- 
   height: 240px;
   margin-top: 20px;
 }
-
 
 .sneakerContainer {
   display: flex;
@@ -228,7 +211,6 @@ max-width: 100%;
   filter: drop-shadow(2px 2px 1px black);
 }
 
-
 .Footer {
   display: flex;
   flex-direction: column;
@@ -240,12 +222,11 @@ max-width: 100%;
   background:url(../img/headerImg/wallpaper.jpg); 
   background-repeat: space;
   filter: brightness(69%);
--webkit-filter: brightness(69%);
--moz-filter: brightness(69%);
-margin-top: 50px;
-max-width: 318px;
-
-width: 100%;
+  -webkit-filter: brightness(69%);
+  -moz-filter: brightness(69%);
+  margin-top: 50px;
+  max-width: 318px;
+  width: 100%;
   max-width: 100%; 
 }
 
@@ -263,22 +244,18 @@ width: 100%;
   padding: 6px;
 }
 
-
 .social-media {
-  display: flex
-;
+  display: flex;
   padding: 30px;
   background-size: 30%;
   margin-top: -20px;
 }
-
 
 .links {
   padding: 20px;
   text-align: center;
   font-family: "Noto Sans", serif;
   color: #000000;
-  /* border-radius: 20px; */
   text-decoration: none;
   margin-top: -21px;
 }
@@ -297,14 +274,12 @@ width: 100%;
   height: 100%;
   object-fit: cover;
   border-radius: 20px;
-
   margin-top: 50px;
 }
 
 .Sneaker_Box {
   margin-top: 120px;
-  display: flex
-;
+  display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -327,8 +302,7 @@ width: 100%;
 
 .form {
   padding: 20px;
-  display: flex
-;
+  display: flex;
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
@@ -339,30 +313,24 @@ width: 100%;
 }
 
 input {
- 
-    border-radius: 20px;
-    font-size: 20px;
-    height: 70px;
-    width: 300px;
+  border-radius: 20px;
+  font-size: 20px;
+  height: 70px;
+  width: 300px;
 }
-
 
 .Sneaker_Box:hover {
   scale: 2.1;
-  transition: 0.5s;
- 
+  transition: 0.5s; 
 }
-
 
 .register {
   z-index: 1;
-  display: flex
-;
+  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #ffffff;
-  
   width: 90%;
   margin: 0 auto;
   border-radius: 20px;
@@ -370,8 +338,7 @@ input {
 }
 
 .placeholder {
-  display: flex
-;
+  display: flex;
   justify-content: start;
   align-items: center;
   color: #000000;
@@ -379,14 +346,12 @@ input {
   font-size: 20px;
 }
 
-
 .Sneaker_Container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 120px;
-  
+  margin-top: 120px;  
 }
 
 .Sneaker_Box {
@@ -413,33 +378,28 @@ input {
 }
 
 .containerSneaker {
-  display: flex
-;
-        flex-direction: column;
-        width: 100%;
-        border-radius: 20px;
-        padding: 20px;
-        margin-left: -32px;
-        box-sizing: border-box;
-        font-family: "Noto Sans", serif;
-        margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border-radius: 20px;
+  padding: 20px;
+  margin-left: -32px;
+  box-sizing: border-box;
+  font-family: "Noto Sans", serif;
+  margin-top: 50px;
 }
 
 .description {
   display: none;
 }
 
-
 #Phantom {
-  display: flex;
-  
+  display: flex;  
   justify-content: center;
-  
 }
 
 .img-magnifier-container {
-  display: flex
-;
+  display: flex;
   position: relative;
   height: 400px;
   width: 400px;
@@ -457,8 +417,7 @@ input {
 #size {
   margin-top: -87px;
   margin-left: 27px;
-  display: flex
-;
+  display: flex;
   border: solid 1px gray;
   border-radius: 20px;
   justify-content: center;
@@ -481,12 +440,10 @@ input {
   margin-left: 20px;
 }
 
-
 .descriptionHome {
   width: 34%;
   box-sizing: border-box;
-  display: flex
-;
+  display: flex;
   flex-direction: column;
   padding: 10px;
   border: 1px solid grey;
@@ -540,9 +497,8 @@ input {
 
 .cardContainer {
   z-index: 1;
-  display: flex
-;
-flex-direction: column;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #ffffff;
@@ -555,9 +511,8 @@ flex-direction: column;
 }
 
 .cards {
-  display: flex
-;
-margin-left: -45px;
+  display: flex;
+  margin-left: -45px;
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: center;
@@ -574,16 +529,13 @@ margin-left: -45px;
 }
 
 .form-group {
-  display: flex
-;
-
+  display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
   align-content: center;
   justify-content: center;
   align-items: baseline;
 }
-
 
 .inputField {
   border: solid 1px;
@@ -592,8 +544,7 @@ margin-left: -45px;
   color: white;
   fill-opacity: 10%;
   padding: 10px;
-  height: 30px;
-  
+  height: 30px;  
   width: 275px;
 }
 
@@ -610,35 +561,25 @@ margin-left: -45px;
 }
 
 .Sorted-card {
-  display: flex
-;
+  display: flex;
 flex-direction: column;
-
 }
 
 .cardList {
-  display: flex
-;
-margin-left: -82px;
+  display: flex;
+  margin-left: -82px;
 }
 
 .Please {
-  display: flex
-;
-  /* width: 200px; */
+  display: flex;
   margin-left: 20px;
   padding-left: 13px;
   padding-right: 47px;
 }
 
 .dobuleInput {
-  display: flex
-;
+  display: flex;
   flex-direction: column;
   padding-top: 10px;
 }
-
-
-
-
 }

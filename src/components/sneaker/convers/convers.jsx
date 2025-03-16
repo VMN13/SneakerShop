@@ -18,11 +18,15 @@ export default function Max() {
       <h2>Convers
       </h2>
         <p>
-          Converse  is an American lifestyle brand that markets, distributes, and licenses footwear, apparel, and accessories. 
-          Founded by Marquis Mills Converse in 1908 as the Converse Rubber Shoe Company in Malden, Massachusetts, it has been 
+          Converse  is an American lifestyle brand that markets, distributes, 
+          and licenses footwear, apparel, and accessories. 
+          Founded by Marquis Mills Converse in 1908 as the Converse Rubber 
+          Shoe Company in Malden, Massachusetts, it has been 
           acquired by several companies before becoming a subsidiary of Nike, Inc. in 2003.
-          Converse initially produced winterized rubber-soled shoes and boots. During World War II, it shifted manufacturing to make
-          footwear for the military. Initially, it was one of the few producers of athletic shoes and dominated the U.S. market, 
+          Converse initially produced winterized rubber-soled shoes and boots. 
+          During World War II, it shifted manufacturing to make
+          footwear for the military. Initially, it was one of the few producers 
+          of athletic shoes and dominated the U.S. market, 
           but lost its position in the 1970s as competitors introduced their styles.
         </p>
 

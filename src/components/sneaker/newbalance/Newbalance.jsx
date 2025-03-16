@@ -24,7 +24,8 @@ export default function Max() {
           as the New Balance Arch Support Company.
           New Balance maintains a manufacturing presence in the United States, as well as in the United Kingdom for
           the European market,
-          where it produces some of its popular models. New Balance claims to differentiate its products with technical features,
+          where it produces some of its popular models. New Balance claims to differentiate its 
+          products with technical features,
           such as blended gel inserts, heel counters and a greater selection of sizes, particularly for 
           very narrow or very wide widths. The company is privately held and totaled $6.5 billion in revenue in 2023.
         </p>

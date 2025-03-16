@@ -80,10 +80,10 @@ export default function Max() {
 </div>
       <Link Link to="/Credit">
       <button
-      className="buyTwo" > B 
+      className="buyTwo" > 
+      B 
       U 
-      Y 
-       
+      Y   
     </button>
     </Link>
     
@@ -113,10 +113,14 @@ export default function Max() {
   <Stars />
     <p className="des">
       Jordan Brings the Heat
-      Michael Jordan brought the literal heat in his 1996-1997 season, setting the stage for one of basketball’s 
-      most transformative moments. In game five of The Finals—Jordan’s famous “flu game”—he scored 38 points to go 
-      with seven rebounds and five assists against the Utah Jazz, all with a temperature of 103 degrees. His enduring drive 
-      ultimately helped lead his team to another title, serving as inspiration for the technology and construction of 
+      Michael Jordan brought the literal heat in his 1996-1997 season, 
+      setting the stage for one of basketball’s 
+      most transformative moments. In game five of The Finals—Jordan’s famous 
+      “flu game”—he scored 38 points to go 
+      with seven rebounds and five assists against the Utah Jazz, 
+      all with a temperature of 103 degrees. His enduring drive 
+      ultimately helped lead his team to another title, 
+      serving as inspiration for the technology and construction of 
     </p>
 
 <div className="cardbottons">

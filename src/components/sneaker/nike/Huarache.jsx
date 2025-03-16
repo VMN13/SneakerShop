@@ -92,7 +92,9 @@ return (
   </h2>
   <Stars />
     <p className="des">
-    When it fits this good and looks this great. The Air Huarache takes on a classic silhouette with a runner-inspired design, mixed materials and rich neutrals for a look that is both nostalgic and brand new.
+    When it fits this good and looks this great. The Air Huarache takes on a classic 
+    silhouette with a runner-inspired design, mixed materials and rich neutrals for a 
+    look that is both nostalgic and brand new.
     </p>
 
 <div className="cardbottons">
