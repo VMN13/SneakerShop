@@ -1,25 +1,16 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import {Link } from 'react-router-dom';
-import Footer from '../Footer';
-import Header from '../Header';
-import AirMax from '../../img/AirMax.jpg';
-import Huarache from '../../img/Huarache.jpg';
-import Chat from '../../chatbot';
-import AirForce from '../../img/AirForce.png';
-import AirMid from '../../img/AirMid.jpg';
-import BOG from '../../img/BOG.jpg';
-import Joy from '../../img/Joy.png';
-import Fuel from '../../img/NewBalanceFuel.jpg';
-import Nitriel from '../../img/NewBalanceNitiel.jpg';
+import Footer from '../maket/Footer';
+import Header from '../maket/Header';
+import Fuel from '../img/sneakerPrev/newBalance/fuel/Fuel.jpg';
+import Nitriel from '../img/sneakerPrev/newBalance/nitiel/Nitiel.jpg';
 export default function SneakerMain() {
 return (
 <>   
 <Header /> 
-
-
 <h1 id="home">
-   New Balance
+    New Balance
   </h1> 
   <div className="Sneaker_Container">
     <div className='Sneaker_Box'>
@@ -51,10 +42,6 @@ return (
           </Link>
         </div>
       </div>
-
-    
-    
-
   </div>
 <Footer /> 
     </>

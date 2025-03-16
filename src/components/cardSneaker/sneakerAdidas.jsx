@@ -1,31 +1,32 @@
-/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import {Link } from 'react-router-dom';
 import Footer from '../maket/Footer';
 import Header from '../maket/Header';
-import InstaPump from  '../img/sneakerPrev/reebook/instaPump/Pump.jpg';
-export default function SneakerMain() {
+
+import Adidas from '../img/sneakerMain/adidas/adidas.jpg';
+export default function SneakerAdidas() {
 return (
 <>   
 <Header /> 
 <h1 id="home">
-    Reebook
+  Adidas
   </h1> 
   <div className="Sneaker_Container">
     <div className='Sneaker_Box'>
       <div>
         <h2>
-        reebok instapump
+        Adidas
         </h2>
       </div>
         <div>
           <Link to='/AirMax'>
             <img
               className='Fix_img'
-              src={InstaPump} />
+              src={Adidas} />
           </Link>
         </div>
       </div>
+
   </div>
 <Footer /> 
     </>
